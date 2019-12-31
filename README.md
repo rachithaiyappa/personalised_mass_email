@@ -4,9 +4,9 @@ This script was written in October 2019 when I was a part of the team hosting th
 
 More details about the course: rachithaiyappa.github.io/teaching
 
-This script was used to send some personalised feedback and grades/marks to each student of the course. The idea was to automate this process instead of having to manually email each student of the class.
+Such a script was used to send some personalised feedback and grades/marks to each student of the course. The idea was to automate this process instead of having to manually email each student of the class.
 
-This script has been tested for a gmail account (sender-side).
+The script has been tested for a gmail account (sender-side).
 Please note, for this to work, your (sender's) gmail account must allow 'Less secure apps' (https://devanswers.co/allow-less-secure-apps-access-gmail-account/). No changes need to be made to the receiver's account.
 
 An example of the excel sheet from which the data is being read from has also been attached.
